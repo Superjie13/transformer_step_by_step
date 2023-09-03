@@ -1,7 +1,7 @@
 # Transformer is all you need (step by step) 
 
 **中文教程**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Superjie13/transformer_step_by_step/blob/main/transformer_step_by_step.ipynb)
 
 Note: This tutorial is written **in Chinese**. The English version can refer to [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html). 
 - In the original blog post, you may not train the model on Multi30k dataset, cause the dataset could not be accessed. (you need to follow the dataset part in this tutorial to download and preprocess the dataset)
